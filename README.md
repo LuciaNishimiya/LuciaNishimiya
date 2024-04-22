@@ -1,8 +1,6 @@
 <h2 align="center">👋 Hi there</h2>
 
-<hr/>
-
-<img align='right' src='https://cdn.discordapp.com/attachments/1109505279386714185/1231978665533771877/image0-removebg-preview.png?ex=6638ec8a&is=6626778a&hm=3f830318ab7c7d85084f669698a3d8c14ac0b1405f531c8db3a9caaacf0ebd2a&' width='25%'>  
+<img align='right' src='https://github.com/LuciaNishimiya/LuciaNishimiya/blob/main/assets/lucia_duo.png?raw=true' width='25%'>  
 
 {  
 
@@ -30,6 +28,8 @@
 <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 <a href="#"><img alt="Electron" src="https://img.shields.io/badge/Electron-20232e.svg?logo=electron&logoColor=white"></a>
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express-404d59.svg?logo=express&logoColor=white"></a>
+<a href="#"><img alt="Socket.io" src="https://img.shields.io/badge/socket-io.svg?logo=socket.io&logoColor=white
+"></a>
 <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
 <a href="#"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs&logoColor=white"></a>
 <a href="#"><img alt="NextJS" src="https://img.shields.io/badge/NextJS-000000.svg?logo=nextdotjs&logoColor=white"></a>
@@ -50,8 +50,9 @@
 <h2 align="center">☕ Statistics</h2>
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciaNishimiya&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000">
-    <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=LuciaNishimiya&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&contribs&bg_color=00000000">
+<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=LuciaNishimiya&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&contribs&bg_color=00000000">
+<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciaNishimiya&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000">
+     
 </p>
 
 
