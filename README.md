@@ -2,20 +2,20 @@
 
 <img align='right' src='https://github.com/LuciaNishimiya/LuciaNishimiya/blob/main/assets/lucia_duo.png?raw=true' width='25%'>  
 
-{  
+{
 
-* 👂 `My name is`: **Lucia Amelia**,
-* 👩 `Pronouns`: **She/Her**,
-* ⚡ `I'm`: **21 years old**,
-* 🌱 `I’m currently learning`: **Full Stack Dev with JavaScript**,
-* ❤️ `I love`: **Cappuccinos**  ,
-* 💻 `Favorite lang`: **CSS**  
+  👩 `Nombre`: **Lucía Amelia**  
+  ⚡ `Edad`: **21 años**  
+  🌍 `Origen`: **Paraguaya, viviendo en México**  
+  💻 `Perfil`: **Desarrolladora full-stack autodidacta**  
+  🌱 `En proceso`: **Profundizando en tecnologías backend**  
+  🎮 `Intereses`: **Videojuegos, Fotografía, Caminar en la oscuridad,<br/>
+La agricultura sostenible y los helados**
 
 }
-
 <br/>
 
-<h2 align="center">🌱 My Skills and Learning:</h2>
+<h2 align="center">🌱 Tecnologías y Aprendizaje:</h2>
 
 <p align="center">
 <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -46,11 +46,11 @@
 </p>
 
 <br/>
-<h2 align="center">☕ Statistics</h2>
+<h2 align="center">🧁 Estadísticas</h2>
 
 <p align="center">
-<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=LuciaNishimiya&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&contribs&bg_color=00000000">
-<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciaNishimiya&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000">
+<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=LuciaNishimiya&show_icons=true&count_private=true&theme=material-palenight&locale=es&hide_border=true&contribs&bg_color=00000000">
+<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciaNishimiya&locale=es&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000">
      
 </p>
 
