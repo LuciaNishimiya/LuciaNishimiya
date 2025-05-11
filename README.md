@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi there</h2>
+<h2 align="center">👋 ¡Buenas!</h2>
 
 <img align='right' src='https://github.com/LuciaNishimiya/LuciaNishimiya/blob/main/assets/lucia_duo.png?raw=true' width='25%'>  
 
